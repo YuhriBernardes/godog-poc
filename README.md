@@ -7,7 +7,7 @@ It uses https://api.publicapis.org/
 # Pre requisites
 
 - Golang installed
-- Godog installed ([Godog install guide](Godog doc))
+- Godog installed ( [Godog install guide](https://github.com/cucumber/godog#install) )
 
 ## Run tests
 
